@@ -1,0 +1,22 @@
+{
+  "name": "test-husky2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivakums/test-husky2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivakums/test-husky2/issues"
+  },
+  "homepage": "https://github.com/sivakums/test-husky2#readme",
+  "devDependencies": {
+    "husky": "^6.0.0"
+  }
+}
